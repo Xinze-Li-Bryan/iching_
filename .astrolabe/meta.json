@@ -134,17 +134,17 @@
     "positions": {},
     "viewport": {
       "camera_position": [
-        15.479904636800594,
-        -4.875092647474236,
-        -19.914905310783794
+        13.014718878132307,
+        1.1959540734097742,
+        -20.94705668304475
       ],
       "camera_target": [
-        6.531131501548278,
-        -4.780460198846897,
-        5.778627466205377
+        -0.1243129684740154,
+        -1.5936267878903179,
+        4.347260841297661
       ],
       "zoom": 1.0,
-      "selected_node_id": "IChing.Symmetry.IChing.KleinAction",
+      "selected_node_id": "IChing.Symmetry.IChing.KleinAction.apply",
       "selected_edge_id": "IChing.Symmetry.IChing.KleinAction.instMulActionHexagram->IChing.Hexagram.IChing.Hexagram"
     }
   }
