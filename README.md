@@ -2,11 +2,11 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-Video-red?logo=youtube)](https://youtu.be/4JIzo7qZeaw) [![Astrolabe](https://img.shields.io/badge/Astrolabe-Visualization-blue?logo=github)](https://github.com/Xinze-Li-Bryan/Astrolabe)
 
-![Astrolabe Visualization](images/astrolabe-visualization.jpg)
-
 ## Philosophical Foundation of the I Ching
 
 The **I Ching** (Book of Changes) is one of China's oldest philosophical classics, dating back over 3,000 years. Its core idea is to understand the dialectical development of all things in the world through the opposition, unity, transformation, and dynamic balance of contradictions.
+
+![Astrolabe Visualization](images/astrolabe-visualization.jpg)
 
 ### Yin and Yang: The Basic Unit of Contradiction
 
@@ -189,17 +189,14 @@ This project only explores Klein four-group symmetry (complement, reversal, etc.
 
 > *Can these systems be formalized in Lean? What hidden dialectical structures would formalization reveal?*
 
-## Philosophical Significance
-
-The deeper value of this project lies in:
-
-1. **Dialogue across millennia**: Verifying ancient dialectical thought using modern formal methods
-2. **East-West synthesis**: Unifying Klein group theory with Yin-Yang dialectics
-3. **Power of abstraction**: Proving that "unity of opposites" is not just a philosophical slogan, but a rigorously provable mathematical theorem
-4. **Cultural confidence**: Ancient Chinese philosophy contains profound mathematical structures worthy of reinterpretation with cutting-edge tools
-
 ## References
 
 - Wilhelm, R. & Baynes, C.F. (1967). *The I Ching or Book of Changes*. Princeton University Press.
 - Leibniz, G.W. (1703). *Explication de l'arithmétique binaire*. Leibniz was the first to discover the connection between I Ching and binary arithmetic.
 - *Zhouyi Zhengyi* (周易正义), Kong Yingda's commentary, Tang Dynasty classical annotation.
+
+---
+
+It's real.
+
+Laugh at the end if you get there.
